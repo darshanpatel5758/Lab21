@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model lab_21.Models.Movie.MovieViewModel
+
+<form asp-controller="Movie" asp-action="Index" method="post">
+
+    <label asp-for="Id"></label>
+    <input asp-for="Id" />
+    <br />
+    <label asp-for="Title"></label>
+    <input asp-for="Title" />
+    <br />
+    <label asp-for="Genre"></label>
+    <input asp-for="Genre" />
+    <br />
+    <label asp-for="Year"></label>
+    <input asp-for="Year" />
+    <br />
+    <label asp-for="Actors"></label>
+    <input asp-for="Actors" />
+    <br />
+    <label asp-for="Directors"></label>
+    <input asp-for="Directors" />
+    <br />
+    <button> Add Movie </button>
+
+
+</form>

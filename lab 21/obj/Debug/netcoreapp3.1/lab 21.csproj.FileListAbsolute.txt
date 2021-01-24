@@ -1,0 +1,56 @@
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.exe
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.deps.json
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.runtimeconfig.json
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.runtimeconfig.dev.json
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.pdb
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.Views.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\lab 21.Views.pdb
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.csprojAssemblyReference.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.AssemblyInfoInputs.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.AssemblyInfo.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.RazorAssemblyInfo.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.RazorAssemblyInfo.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.TagHelpers.input.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.TagHelpers.output.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.RazorCoreGenerate.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Movie\Index.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.RazorTargetAssemblyInfo.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.RazorTargetAssemblyInfo.cs
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.Views.pdb
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\staticwebassets\lab 21.StaticWebAssets.Manifest.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\staticwebassets\lab 21.StaticWebAssets.xml
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.dll
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.pdb
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.genruntimeconfig.cache
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\lab 21.csproj.CopyComplete
+D:\Grand Circus\lab 21\lab 21\obj\Debug\netcoreapp3.1\Razor\Views\Movie\MovieViewResult.cshtml.g.cs
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Grand Circus\lab 21\lab 21\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
